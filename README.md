@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Flavia!
 
-### Full Stack Web Development Specialist | Bridging Technology and Communication
+### Full Stack Developer/ Brand Strategist | Bridging Technology and Communication
 
 </div>
 
@@ -15,14 +15,14 @@
 ## 🚀 About Me
 <div align="justify">
 
-I'm a creative and analytical Full Stack Developer with a flair for blending technology and communication. My background in advertising and public relations infuses a unique perspective into my web development projects.
+As a proficient Full Stack Developer with a strong foundation in HTML5, CSS3, JavaScript, React.js, and Python, I blend my background in advertising and public relations with web development. My postgraduate degree in Strategic Planning further enriches my approach, allowing me to offer creative problem-solving and technical development in one package.
 
 </div>
 
 ### 🌐 My Recent Project: "Better Together"
 <div align="justify">
 
-"Better Together" is a testament to my holistic approach in web development, integrating technologies like HTML, CSS, JavaScript, React.js, Python, Flask, and SQLAlchemy with a focus on API interaction and AI.
+"Better Together" is a holistic solution for personal health and nutrition, showcasing my ability to integrate cutting-edge technologies and concepts. This project features advanced artificial intelligence to personalize user experiences, robust authentication systems, an interactive appointment system, and seamless API integration for functionalities like email confirmations and payment processing.
 
 </div>
 
@@ -33,16 +33,17 @@ I'm a creative and analytical Full Stack Developer with a flair for blending tec
 </div>
 
 #### Key Features:
-- 🔒 Robust authentication system with OAuth
-- 📅 Dynamic appointment scheduling interface
+- 🔒 Advanced authentication systems
+- 📅 Interactive appointment scheduling
 - 🍽️ Food Explorer
 - 🏋️ Exercise Library
-- 💳 Seamless payment processing
-
+- 💳 API integration for payment processing
+- 🤖 Use of artificial intelligence for personalized experiences
+  
 ### 💼 My Expertise
 <div align="justify">
 
-I specialize in crafting engaging user experiences by integrating front-end and back-end technologies. My goal is to create web solutions that are not only visually appealing but also highly functional and user-friendly.
+I specialize in crafting solutions that effectively merge functionality, aesthetics, and user experience. My approach is characterized by meticulous organization, dynamic strategy, passion, and tenacity.
 
 </div>
 
@@ -54,7 +55,7 @@ I specialize in crafting engaging user experiences by integrating front-end and 
 ### 🎯 Professional Aspirations
 <div align="justify">
 
-I aim to excel in dynamic environments that appreciate innovation and strategic thinking. My meticulous attention to detail and critical thinking skills ensure a balanced approach to aesthetics and functionality.
+I aim to excel in dynamic environments that value innovation and strategic thinking. My communication background and technical skills combine to make decisions that align with brand objectives and technical requirements.
 
 </div>
 
