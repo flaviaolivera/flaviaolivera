@@ -67,11 +67,11 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
   <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="NextJs" height="25px" />&nbsp;NextJs
   &nbsp;&nbsp;
-  <img src="[https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png)" alt="VueJs" height="25px" />&nbsp;VueJs
+  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="VueJs" height="25px" />&nbsp;VueJs
   &nbsp;&nbsp;
-  <img src="[https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png](https://nuxt.com/assets/design-kit/icon-green.svg)" alt="NuxtJs" height="25px" />&nbsp;NuxtJs
+  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="NuxtJs" height="25px" />&nbsp;NuxtJs
   &nbsp;&nbsp;
-  <img src="[https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png](https://cdn.worldvectorlogo.com/logos/lit-1.svg)" alt="LitElement" height="25px" />&nbsp;LitElement
+  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="LitElement" height="25px" />&nbsp;LitElement
   &nbsp;&nbsp;
 </p>
 
