@@ -34,8 +34,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 
 ## Tech & Tools Preference
 <div align="justify">
-
-<div align="center"> ### Languages </div>
+### Languages
+<div align="center">
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="25px" />&nbsp;HTML5
   &nbsp;&nbsp;
@@ -47,8 +47,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
    &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" height="25px" />&nbsp;Typescript
 </p>
-
-
+</div>
 
 ### Frameworks
 <p>
