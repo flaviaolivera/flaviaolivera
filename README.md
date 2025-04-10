@@ -154,7 +154,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 
 <div align="center">
   
---
+-----
 
 ## Let's Connect!
 
