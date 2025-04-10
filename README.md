@@ -1,17 +1,5 @@
 <div align="center">
   
-# 👋 Hi, I'm Flavia!
-
-### Full Stack Developer/ Brand Strategist | Bridging Technology and Communication
-
-</div>
-
-<div align="center">
-  <img src="https://breanda.netlify.app/images/hero-image.png" width="150px"/>
-</div>
-
----
-
 ## 🚀 About Me
 <div align="justify">
 
