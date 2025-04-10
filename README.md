@@ -154,12 +154,12 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 
 ---------------
 <div align="justify">
-Let's Connect!
 
-<a href="https://www.linkedin.com/in/flavia-fernandezolivera/">
-  <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="30px"/>
+Thank you for exploring my work. I'm always open to collaborative projects and knowledge exchange. 
+
+Let's connect! <a href="https://www.linkedin.com/in/flavia-fernandezolivera/">
+  <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" width="20px"/>
 </a> &nbsp;&nbsp;
 
-Thank you for exploring my work. I'm always open to collaborative projects and knowledge exchange.
 
 </div>
