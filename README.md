@@ -33,7 +33,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 
 
 ## Tech & Tools Preference
-
+<div align="justify">
 ### Languages
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="25px" />&nbsp;HTML5
@@ -126,7 +126,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   <img src="https://avatars.githubusercontent.com/u/65916846?v=4" alt="GitHub Actions" height="25px" />&nbsp;GitHub Actions
   &nbsp;&nbsp;
 </p>
-
+</div>
 <div align="center">
   
 ## Let's Connect!
