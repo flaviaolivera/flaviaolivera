@@ -132,7 +132,11 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="Vercel" height="25px" />&nbsp;Vercel 
   &nbsp;&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" alt="AWS S3" height="25px" />&nbsp;AWS S3 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" alt="AWS S3" height="25px" />&nbsp;AWS S3 
+  &nbsp;&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="25px" />&nbsp;Docker
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/65916846?v=4" alt="GitHub Actions" height="25px" />&nbsp;GitHub Actions
   &nbsp;&nbsp;
 </p>
 
