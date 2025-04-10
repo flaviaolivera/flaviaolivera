@@ -48,6 +48,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" height="25px" />&nbsp;Typescript
 </p>
 
+
+
 ### Frameworks
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" height="25px" />&nbsp;ReactJs
@@ -64,6 +66,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
 </p>
 
+
+
 ### Development Tools
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="25px" />&nbsp;Github
@@ -78,6 +82,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
 </p>
 
+
+
 ### Backend Libraries
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/160px-SQLAlchemy.svg.png" alt="SQLAlchemy" height="25px" />&nbsp;SQLAlchemy (used with Flask for ORM and database interactions)
 
@@ -90,6 +96,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 &nbsp;&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" height="25px" />&nbsp;GSAP
 &nbsp;&nbsp;
+
+
 
 ###  Testing & Documentation
 <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="Storybook" height="25px" />&nbsp;Storybook
@@ -114,6 +122,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </p>
 
 
+
 ### Cloud Tools and Services
 <p>
   <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="Google Cloud" height="25px" />&nbsp;Google Cloud
@@ -130,6 +139,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 <div align="center">
   
+
+
 ## Let's Connect!
 
 <a href="https://www.linkedin.com/in/flavia-fernandezolivera/">
