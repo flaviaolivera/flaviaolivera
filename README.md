@@ -35,7 +35,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 ## Tech & Tools Preference
 <div align="justify">
 
-### Languages
+<div align="center"> ### Languages </div>
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="25px" />&nbsp;HTML5
   &nbsp;&nbsp;
