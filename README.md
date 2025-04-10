@@ -15,47 +15,31 @@
 ## 🚀 About Me
 <div align="justify">
 
-As a proficient Full Stack Developer with a strong foundation in HTML5, CSS3, JavaScript, React.js, and Python, I blend my background in advertising and public relations with web development. My postgraduate degree in Strategic Planning further enriches my approach, allowing me to offer creative problem-solving and technical development in one package.
+Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.js, Vue.js, Nuxt3, LitElement, Python and Flask. I am fluent in TypeScript, Tailwind CSS, Storybook and Vitest, and have a working knowledge of REST APIs and SQL databases. With a degree in Advertising and Public Relations and a postgraduate degree in Strategic Planning, I combine creative problem solving with advanced technical development skills. I am defined by collaborative work, leadership skills and a focus on creating digital solutions that optimize functionality, aesthetics and user experience.
 
 </div>
 
-### 🌐 My Recent Project: "Better Together"
-<div align="justify">
-
-"Better Together" is a holistic solution for personal health and nutrition, showcasing my ability to integrate cutting-edge technologies and concepts. This project features advanced artificial intelligence to personalize user experiences, robust authentication systems, an interactive appointment system, and seamless API integration for functionalities like email confirmations and payment processing.
-
-</div>
-
-<div align="center">
-  
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="25px" />&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS3" height="25px" />&nbsp;<img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" height="25px" />&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" height="25px" />&nbsp;<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="25px" />&nbsp;<img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" height="25px" />&nbsp;
-
-</div>
-
-#### Key Features:
-- 🔒 Advanced authentication systems
-- 📅 Interactive appointment scheduling
-- 🍽️ Food Explorer
-- 🏋️ Exercise Library
-- 💳 API integration for payment processing
-- 🤖 Use of artificial intelligence for personalized experiences
   
 ### 💼 My Expertise
 <div align="justify">
 
-I specialize in crafting solutions that effectively merge functionality, aesthetics, and user experience. My approach is characterized by meticulous organization, dynamic strategy, passion, and tenacity.
+- Frontend Development (Nuxt 3, Vue.js, Tailwind CSS, PrimeVue, Sass): Design and development of scalable and high performance web applications applying modern UI/UX principles.
 
-</div>
+- Component-based architecture and Storybook: Creation of reusable and modular components with Vue 3 and PrimeVue, documented using Storybook.
 
-### 🌟 Personal Highlights
-- 🧘‍♀️ Practitioner of meditation and yoga for mental clarity and performance
-- 🌀 Adaptable team player with decisive leadership qualities
-- 📚 Keen learner, staying on top of emerging trends and technologies
+- State management (Pinia, composables, custom stores): Implementation of shared logic and efficient global state management in complex applications.
 
-### 🎯 Professional Aspirations
-<div align="justify">
+- Form validation and UX optimization: Integration of VeeValidate and Zod for robust validations and smooth user experience.
 
-I aim to excel in dynamic environments that value innovation and strategic thinking. My communication background and technical skills combine to make decisions that align with brand objectives and technical requirements.
+- Animations and interactions (GSAP): Improved user experience through smooth animations and micro-interactions.
+
+- Internationalization (i18n): Implementation of multilingual support with Vue i18n for applications ready for global environments.
+
+- Testing and quality assurance (Vitest): Writing unit and embedded tests to validate interface behavior and ensure stability.
+
+- Performance optimization: Improving load, rendering and response times by optimizing logic and state management.
+
+- Agile methodologies and teamwork: Effective collaboration in agile environments (Scrum), contributing to the fast and coordinated delivery of functionalities.
 
 </div>
 
