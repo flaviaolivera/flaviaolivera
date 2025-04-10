@@ -32,82 +32,111 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
 
-## 🚀 Tech & Tools Preference
+## Tech & Tools Preference
+<div align="justify">
 
----
+### Languages
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="HTML5" height="25px" />&nbsp;HTML5
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS3" height="25px" />&nbsp;CSS3
+  &nbsp;&nbsp;
+  <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" height="25px" />&nbsp;JavaScript
+  &nbsp;&nbsp;
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="25px" />&nbsp;Python
+   &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" height="25px" />&nbsp;Typescript
+</p>
 
-### 🖥️ Languages
 
-<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" height="25"/> HTML5  
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" height="25"/> CSS3  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="25"/> JavaScript  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="25"/> Python  
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="25"/> TypeScript  
 
----
+### Frameworks
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" height="25px" />&nbsp;ReactJs
+  &nbsp;&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" alt="Flask" height="25px" />&nbsp;Flask 
+  &nbsp;&nbsp;
+  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="NextJs" height="25px" />&nbsp;NextJs
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VueJs" height="25px" />&nbsp;VueJs
+  &nbsp;&nbsp;
+  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="NuxtJs" height="25px" />&nbsp;NuxtJs
+  &nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/lit-1.svg" alt="LitElement" height="25px" />&nbsp;LitElement
+  &nbsp;&nbsp;
+</p>
 
-### 🧱 Frameworks
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25"/> ReactJS  
-<img src="https://static-00.iconduck.com/assets.00/flask-icon-1594x2048-84mjydzf.png" height="25"/> Flask  
-<img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" height="25"/> Next.js  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" height="25"/> Vue.js  
-<img src="https://nuxt.com/assets/design-kit/icon-green.svg" height="25"/> Nuxt 3  
-<img src="https://cdn.worldvectorlogo.com/logos/lit-1.svg" height="25"/> LitElement  
 
----
+### Development Tools
+<p>
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="25px" />&nbsp;Github
+  &nbsp;&nbsp;
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="25px" />&nbsp;Git 
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="" height="25px" />&nbsp;Node.js
+  &nbsp;&nbsp;
+  <img src="https://static-00.iconduck.com/assets.00/insomnia-icon-2048x2048-kz1gm1sv.png" alt="Insomnia" height="25px" />&nbsp;Insomnia 
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="25px" />&nbsp;VSCode 
+  &nbsp;&nbsp;
+</p>
 
-### ⚒️ Development Tools
 
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" height="25"/> GitHub  
-<img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="25"/> Git  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" height="25"/> Node.js  
-<img src="https://static-00.iconduck.com/assets.00/insomnia-icon-2048x2048-kz1gm1sv.png" height="25"/> Insomnia  
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" height="25"/> VSCode  
 
----
+### Backend Libraries
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/160px-SQLAlchemy.svg.png" alt="SQLAlchemy" height="25px" />&nbsp;SQLAlchemy (used with Flask for ORM and database interactions)
 
-### 🧩 Backend Libraries
+###  Frontend Libraries
+<img src="https://cdn.worldvectorlogo.com/logos/pinia-1.svg" alt="Pinia" height="25px" />&nbsp;Pinia
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/logaretm/vee-validate/main/logo.png" alt="VeeValidate" height="25px" />&nbsp;VeeValidate
+&nbsp;&nbsp;
+<img src="https://zod.dev/logo.svg" alt="Zod" height="25px" />&nbsp;Zod
+&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" height="25px" />&nbsp;GSAP
+&nbsp;&nbsp;
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/SQLAlchemy.svg" height="25"/> SQLAlchemy (used with Flask)
 
----
 
-### 🎨 Frontend Libraries
+###  Testing & Documentation
+<img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="Storybook" height="25px" />&nbsp;Storybook
+&nbsp;&nbsp;
+<img src="https://vitest.dev/logo.svg" alt="Vitest" height="25px" />&nbsp;Vitest
+&nbsp;&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="25px" />&nbsp;Jest
+&nbsp;&nbsp;
 
-<img src="https://cdn.worldvectorlogo.com/logos/pinia-1.svg" height="25"/> Pinia  
-<img src="https://raw.githubusercontent.com/logaretm/vee-validate/main/logo.png" height="25"/> VeeValidate  
-<img src="https://zod.dev/logo.svg" height="25"/> Zod  
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="25"/> GSAP  
+### CSS & Design Tools
+<p>
+  <img src="https://static-00.iconduck.com/assets.00/styled-components-icon-512x223-72cqvkty.png" alt="Styled-Components" height="25px" />&nbsp;Styled-Components
+  &nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="Bootstrap" height="25px" />&nbsp;Bootstrap
+  &nbsp;&nbsp;
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" height="25px" />&nbsp;Figma
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="25px" />&nbsp;TailwindCSS
+  &nbsp;&nbsp;
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="Sass" height="25px" />&nbsp;Sass
+  &nbsp;&nbsp;
+</p>
 
----
 
-### 🧪 Testing & Documentation
 
-<img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" height="25"/> Storybook  
-<img src="https://vitest.dev/logo.svg" height="25"/> Vitest  
-<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="25"/> Jest  
-
----
-
-### 🎨 CSS & Design Tools
-
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="25"/> Bootstrap  
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" height="25"/> Figma  
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" height="25"/> Tailwind CSS  
-<img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" height="25"/> Sass  
-<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" height="25"/> Styled Components  
-
----
-
-### ☁️ Cloud Tools & Services
-
-<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" height="25"/> Google Cloud  
-<img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg" height="25"/> Vercel  
-<img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" height="25"/> AWS S3  
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" height="25"/> Docker  
-<img src="https://avatars.githubusercontent.com/u/65916846?v=4" height="25"/> GitHub Actions  
-
+### Cloud Tools and Services
+<p>
+  <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="Google Cloud" height="25px" />&nbsp;Google Cloud
+  &nbsp;&nbsp;
+  <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="Vercel" height="25px" />&nbsp;Vercel 
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" alt="AWS S3" height="25px" />&nbsp;AWS S3 
+  &nbsp;&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" alt="Docker" height="25px" />&nbsp;Docker
+  &nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/65916846?v=4" alt="GitHub Actions" height="25px" />&nbsp;GitHub Actions
+  &nbsp;&nbsp;
+</p>
+</div>
 
 
 <div align="center">
