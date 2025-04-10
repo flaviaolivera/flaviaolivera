@@ -35,7 +35,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 ## Tech & Tools Preference
 <div align="justify">
 
-### Languages
+#### Languages
 
 <div align="center">
 <p>
@@ -51,7 +51,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </p>
 </div>
 
-### Frameworks
+#### Frameworks
 
 <div align="center">
 <p>
@@ -151,7 +151,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 </div>
 
-
+<div align="justify">
 ## Let's Connect!
 
 <a href="https://www.linkedin.com/in/flavia-fernandezolivera/">
