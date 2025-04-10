@@ -132,6 +132,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
   <img src="https://static.wikia.nocookie.net/logopedia/images/a/a7/Vercel_favicon.svg/revision/latest?cb=20221026155821" alt="Vercel" height="25px" />&nbsp;Vercel 
   &nbsp;&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/1712px-Amazon-S3-Logo.svg.png" alt="AWS S3" height="25px" />&nbsp;AWS S3 
+  &nbsp;&nbsp;
 </p>
 
 <div align="center">
