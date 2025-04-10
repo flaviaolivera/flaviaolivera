@@ -56,7 +56,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" height="25px" />&nbsp;JavaScript
   &nbsp;&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="25px" />&nbsp;Python
-  <img src="[https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png)" alt="Typescript" height="25px" />&nbsp;Typescript
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" height="25px" />&nbsp;Typescript
 </p>
 
 ### Frameworks
@@ -67,11 +67,11 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
   <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="NextJs" height="25px" />&nbsp;NextJs
   &nbsp;&nbsp;
-  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="VueJs" height="25px" />&nbsp;VueJs
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="VueJs" height="25px" />&nbsp;VueJs
   &nbsp;&nbsp;
-  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="NuxtJs" height="25px" />&nbsp;NuxtJs
+  <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="NuxtJs" height="25px" />&nbsp;NuxtJs
   &nbsp;&nbsp;
-  <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="LitElement" height="25px" />&nbsp;LitElement
+  <img src="https://cdn.worldvectorlogo.com/logos/lit-1.svg" alt="LitElement" height="25px" />&nbsp;LitElement
   &nbsp;&nbsp;
 </p>
 
