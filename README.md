@@ -76,7 +76,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
 </p>
 
-### Programming Tools
+### Development Tools
 <p>
   <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" height="25px" />&nbsp;Github
   &nbsp;&nbsp;
@@ -88,14 +88,20 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode" height="25px" />&nbsp;VSCode 
   &nbsp;&nbsp;
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png" alt="NPM" height="25px" />&nbsp;NPM 
-  &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/160px-SQLAlchemy.svg.png" alt="SQLAlchemy" height="25px" />&nbsp;SQLAlchemy
-  &nbsp;&nbsp;
-  <img src="https://consilium.technology/wp-content/themes/consilium/img/icon-machine-intelligence-white.png" alt="AI" height="25px" />&nbsp;Artificial Intelligence 
-  &nbsp;&nbsp; 
 </p>
 
+### Backend Libraries
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/160px-SQLAlchemy.svg.png" alt="SQLAlchemy" height="25px" />&nbsp;SQLAlchemy (used with Flask for ORM and database interactions)
+
+###  Frontend Libraries
+<img src="https://cdn.worldvectorlogo.com/logos/pinia-1.svg" alt="Pinia" height="25px" />&nbsp;Pinia
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/logaretm/vee-validate/main/logo.png" alt="VeeValidate" height="25px" />&nbsp;VeeValidate
+&nbsp;&nbsp;
+<img src="https://zod.dev/logo.svg" alt="Zod" height="25px" />&nbsp;Zod
+&nbsp;&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" height="25px" />&nbsp;GSAP
+&nbsp;&nbsp;
 
 ### CSS & Design Tools
 <p>
