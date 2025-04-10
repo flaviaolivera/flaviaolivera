@@ -152,6 +152,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
 <div align="justify">
+  
 ## Let's Connect!
 
 <a href="https://www.linkedin.com/in/flavia-fernandezolivera/">
