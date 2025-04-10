@@ -8,7 +8,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
   
-### 💼 My Expertise
+## 💼 My Expertise
 <div align="justify">
 
 - Frontend Development (Nuxt 3, Vue.js, LitElement, Tailwind CSS, PrimeVue, Sass): Design and development of scalable and high performance web applications applying modern UI/UX principles.
