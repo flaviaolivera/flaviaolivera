@@ -56,6 +56,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" alt="JavaScript" height="25px" />&nbsp;JavaScript
   &nbsp;&nbsp;
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="25px" />&nbsp;Python
+   &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" alt="Typescript" height="25px" />&nbsp;Typescript
 </p>
 
