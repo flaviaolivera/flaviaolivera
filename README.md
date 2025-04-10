@@ -103,6 +103,14 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" height="25px" />&nbsp;GSAP
 &nbsp;&nbsp;
 
+###  Testing & Documentation
+<img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="Storybook" height="25px" />&nbsp;Storybook
+&nbsp;&nbsp;
+<img src="https://vitest.dev/logo.svg" alt="Vitest" height="25px" />&nbsp;Vitest
+&nbsp;&nbsp;
+<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" alt="Jest" height="25px" />&nbsp;Jest
+&nbsp;&nbsp;
+
 ### CSS & Design Tools
 <p>
   <img src="https://miro.medium.com/v2/resize:fit:318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="Styled-Components" height="25px" />&nbsp;Styled-Components
