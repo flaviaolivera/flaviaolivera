@@ -71,7 +71,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
 
-### Development Tools
+#### Development Tools
 
 <div align="center">
 <p>
@@ -89,12 +89,12 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
 
-### Backend Libraries
+#### Backend Libraries
 <div align="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/SQLAlchemy.svg/160px-SQLAlchemy.svg.png" alt="SQLAlchemy" height="25px" />&nbsp;SQLAlchemy (used with Flask for ORM and database interactions)
 </div>
 
-###  Frontend Libraries
+####  Frontend Libraries
 <div align="center">
 <img src="https://cdn.worldvectorlogo.com/logos/pinia-1.svg" alt="Pinia" height="25px" />&nbsp;Pinia
 &nbsp;&nbsp;
@@ -107,7 +107,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
 
-###  Testing & Documentation
+####  Testing & Documentation
 <div align="center">
 <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" alt="Storybook" height="25px" />&nbsp;Storybook
 &nbsp;&nbsp;
@@ -117,7 +117,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 &nbsp;&nbsp;
 </div>
 
-### CSS & Design Tools
+#### CSS & Design Tools
 <div align="center">
 <p>
   <img src="https://static-00.iconduck.com/assets.00/styled-components-icon-512x223-72cqvkty.png" alt="Styled-Components" height="25px" />&nbsp;Styled-Components
@@ -134,7 +134,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
 
-### Cloud Tools and Services
+#### Cloud Tools and Services
 <div align="center">
 <p>
   <img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-512x412-8rnz6wkz.png" alt="Google Cloud" height="25px" />&nbsp;Google Cloud
