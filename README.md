@@ -113,13 +113,15 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 
 ### CSS & Design Tools
 <p>
-  <img src="https://miro.medium.com/v2/resize:fit:318/1*7jRD5QhgARucFKvRHFxpOg.png" alt="Styled-Components" height="25px" />&nbsp;Styled-Components
+  <img src="https://static-00.iconduck.com/assets.00/styled-components-icon-512x223-72cqvkty.png" alt="Styled-Components" height="25px" />&nbsp;Styled-Components
   &nbsp;&nbsp;
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" alt="Bootstrap" height="25px" />&nbsp;Bootstrap
   &nbsp;&nbsp;
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" alt="Figma" height="25px" />&nbsp;Figma
   &nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/2048px-Canva_icon_2021.svg.png" alt="Canva" height="25px" />&nbsp;Canva
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="TailwindCSS" height="25px" />&nbsp;TailwindCSS
+  &nbsp;&nbsp;
+  <img src="https://sass-lang.com/assets/img/styleguide/seal-color.png" alt="Sass" height="25px" />&nbsp;Sass
   &nbsp;&nbsp;
 </p>
 
