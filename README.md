@@ -52,6 +52,8 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 </div>
 
 ### Frameworks
+
+<div align="center">
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1150px-React-icon.svg.png" alt="React" height="25px" />&nbsp;ReactJs
   &nbsp;&nbsp;
@@ -66,7 +68,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
   <img src="https://cdn.worldvectorlogo.com/logos/lit-1.svg" alt="LitElement" height="25px" />&nbsp;LitElement
   &nbsp;&nbsp;
 </p>
-
+</div>
 
 
 ### Development Tools
