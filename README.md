@@ -23,7 +23,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 ### 💼 My Expertise
 <div align="justify">
 
-- Frontend Development (Nuxt 3, Vue.js, Tailwind CSS, PrimeVue, Sass): Design and development of scalable and high performance web applications applying modern UI/UX principles.
+- Frontend Development (Nuxt 3, Vue.js, LitElement, Tailwind CSS, PrimeVue, Sass): Design and development of scalable and high performance web applications applying modern UI/UX principles.
 
 - Component-based architecture and Storybook: Creation of reusable and modular components with Vue 3 and PrimeVue, documented using Storybook.
 
@@ -35,7 +35,7 @@ Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.j
 
 - Internationalization (i18n): Implementation of multilingual support with Vue i18n for applications ready for global environments.
 
-- Testing and quality assurance (Vitest): Writing unit and embedded tests to validate interface behavior and ensure stability.
+- Testing and quality assurance (Vitest, Jest): Writing unit and embedded tests to validate interface behavior and ensure stability.
 
 - Performance optimization: Improving load, rendering and response times by optimizing logic and state management.
 
