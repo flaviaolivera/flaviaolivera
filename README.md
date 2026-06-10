@@ -1,13 +1,5 @@
 <div align="center">
-  
-## 🚀 About Me
-<div align="justify">
-
-Full Stack developer with a solid foundation in HTML5, CSS3, JavaScript, React.js, Vue.js, Nuxt3, LitElement, Python and Flask. I am fluent in TypeScript, Tailwind CSS, Storybook and Vitest, and have a working knowledge of REST APIs and SQL databases. With a degree in Advertising and Public Relations and a postgraduate degree in Strategic Planning, I combine creative problem solving with advanced technical development skills. I am defined by collaborative work, leadership skills and a focus on creating digital solutions that optimize functionality, aesthetics and user experience.
-
-</div>
-
-  
+    
 ## 💼 My Expertise
 <div align="justify">
 
